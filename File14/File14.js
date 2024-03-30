@@ -1,8 +1,16 @@
 // String Methods in Javascript
 
+
 // Slice :
 // In slice method we give index no and it return string .In
 // slice we have two parameter "start index", "end index"
+
+// let str = "Sufyan";
+// let fr = " Shaikh"
+// let add = str.concat(fr);
+ 
+// console.log(add);
+
 
 // SubString
 // subString method is similar to slice but it cannot accept
@@ -39,8 +47,16 @@
 // It convert the string into small letter
 
 // concat method
+// It joins two or more string 
+// It does not change original string
 
 
-// String Challenge :
 
-// use for loop to print string
+
+
+
+
+// Convert String into Array
+
+let Str = "Hello World";
+console.log(Str.split());
